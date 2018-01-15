@@ -10,3 +10,5 @@ int main()
 	nr2=nr+1;
 	cout<<nr2;
 }
+
+//am modificat fisierul
