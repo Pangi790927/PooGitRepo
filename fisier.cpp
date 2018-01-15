@@ -12,3 +12,4 @@ int main()
 }
 
 //am modificat fisierul
+//modificare2
