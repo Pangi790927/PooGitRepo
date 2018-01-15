@@ -1,5 +1,7 @@
+#include <iostream>
+
 int main(int argc, char const *argv[])
 {
-	/* code */
+	std::cout << "this" << std::endl;
 	return 0;
 }
